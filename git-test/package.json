@@ -15,7 +15,7 @@
   "author": "Daniel Kersten",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DanielK0707/coursera_bootstrap/editor.html"
+    "url": "https://github.com/DanielK0707/coursera_bootstrap/issues.html"
   },
   "devDependencies": {
     "lite-server": "^2.5.4"
