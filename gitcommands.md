@@ -13,7 +13,7 @@ git checkout master - go back to your master from wherever you are
 git checkout master -b newbranchname - go from your master into another branch, if non existent before it creates a new one
 git branch -d branchname - deletes existing branch
 git config - ?
-git remote (get-url origin) - ?
+git remote add origin (repository url) - add the remote online repository
 git status - show pending changes made local but not on git yet
 git add + file name - add the file to git
 git add . - add all files of your current folder
