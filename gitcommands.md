@@ -24,3 +24,5 @@ git log - same but with more details
 git checkout <commit> <file> - checkout the file from an older commit
 git reset <file> - unstage a staged file, but leave working directory unchanged
 git reset - reset the staging area to the last commit without disturbing the working directory
+
+Ich teste nur mal ob das funktioniert
