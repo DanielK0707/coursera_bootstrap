@@ -19,3 +19,8 @@ git add + file name - add the file to git
 git add . - add all files of your current folder
 git commit -m "something" - confirm the made changes to git and include a message
 git push - upload the changed file to git
+git log --oneline - shows all previous commits
+git log - same but with more details
+git checkout <commit> <file> - checkout the file from an older commit
+git reset <file> - unstage a staged file, but leave working directory unchanged
+git reset - reset the staging area to the last commit without disturbing the working directory
