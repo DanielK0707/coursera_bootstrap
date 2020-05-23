@@ -15,7 +15,7 @@ git branch -d branchname - deletes existing branch
 git config - ?
 git remote add origin (repository url) - add the remote online repository
 git status - show pending changes made local but not on git yet
-git add + file name - add the file to git
+git add <filename> - add the file to git
 git add . - add all files of your current folder
 git commit -m "something" - confirm the made changes to git and include a message
 git push - upload the changed file to git
@@ -24,5 +24,7 @@ git log - same but with more details
 git checkout <commit> <file> - checkout the file from an older commit
 git reset <file> - unstage a staged file, but leave working directory unchanged
 git reset - reset the staging area to the last commit without disturbing the working directory
-
-Ich teste nur mal ob das funktioniert
+git restore <filename> - restore commit that you checked out before
+npm init - initializes npm for your git
+npm install lite-server - set up a server for pre-viewing your accomplishments online
+    --save-dev - specify that this server is used for development
