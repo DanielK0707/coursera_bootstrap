@@ -29,3 +29,4 @@ npm init - initializes npm for your git
 npm install lite-server - set up a server for pre-viewing your accomplishments online
     --save-dev - specify that this server is used for development
 npm audit fix - fixes vulnerabilities found (except when it doesn't)
+&nbsp; - create some extra space under last text
